@@ -4,7 +4,7 @@
  + phone: **+7(904)-842-91-70**
  + telegram: **ifkerri**
  + e-mail: **ifkerri@mail.ru**
- + github: **[github.com/ifkerri](ifkerri)** 
+ + github: **[ifkerri](github.com/ifkerri)** 
 
 ### About me:
 At the moment I am developing projects on 1C, I am studying new technologies and web development to broaden my horizons
